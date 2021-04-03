@@ -2,8 +2,7 @@ var express = require('express');
 var bodyParser = require('body-parser');
 // UNCOMMENT THE DATABASE YOU'D LIKE TO USE
 var db = require('../database-mysql');
-const { fn, Callbacks } = require('jquery');
-// var items = require('../database-mongo');
+// const { fn, Callbacks } = require('jquery');
 
 var app = express();
 

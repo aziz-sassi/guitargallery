@@ -16,11 +16,11 @@ so that's it guys have a good trip in this simple web application
 <button  className = "myintrobutton" onClick = {()=>this.clickMe()}>go to the gallery</button>
 <div className="contact-us">
 <h1>contact us</h1>
-<a href="https://www.instagram.com/aziz_sassii/" target="blank" class="fa fa-instagram">Instagram</a>
-<a href="https://www.facebook.com/aziz.sassi.16121/" target="blank" class="fa fa-facebook">Facebook</a>
-<a href="https://github.com/aziz-sassi" target="blank" class="fa fa-github">Github</a>
-<a href="https://www.linkedin.com/in/aziz-sassi-9a4480204/" target="blank" class="fa fa-linkedin">linkedin</a>
-<a href="mailto:sassiaziz50@gmail.com" target="blank" class="fa fa-gmail">gmail</a>
+<a href="https://www.instagram.com/aziz_sassii/" target="blank" className="fa fa-instagram">Instagram</a>
+<a href="https://www.facebook.com/aziz.sassi.16121/" target="blank" className="fa fa-facebook">Facebook</a>
+<a href="https://github.com/aziz-sassi" target="blank" className="fa fa-github">Github</a>
+<a href="https://www.linkedin.com/in/aziz-sassi-9a4480204/" target="blank" className="fa fa-linkedin">linkedin</a>
+<a href="mailto:sassiaziz50@gmail.com" target="blank" className="fa fa-gmail">gmail</a>
 
 
 
