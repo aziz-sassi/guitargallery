@@ -1,9 +1,12 @@
 {
   "name": "github-fetcher-fullstack-v2",
   "version": "1.0.0",
+  "private" : true,
   "description": "",
   "main": "index.js",
+  "engines": { "npm": "7.5.4", "node": "14.15.4" },
   "scripts": {
+    "heroku-postbuild": "npm install",
     "react-dev": "webpack -d --watch",
     "start": "nodemon server/index.js"
   },
