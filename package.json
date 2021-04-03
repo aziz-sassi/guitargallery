@@ -8,7 +8,7 @@
   "scripts": {
     "heroku-postbuild": "npm install",
     "react-dev": "webpack -d --watch",
-    "start": "node server/index.js"
+    "start": "node index.js"
   },
   "author": "Beth Johnson",
   "license": "ISC",
