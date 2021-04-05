@@ -1,2 +1,1 @@
-web: nodemon index.js
-web: webpack -d --watch
+web: node index.js
